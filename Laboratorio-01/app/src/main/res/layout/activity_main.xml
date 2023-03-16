@@ -10,7 +10,7 @@
     >
 
     <TextView
-        android:id="@+id/textview1"
+        android:id="@+id/textview3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="serif-monospace"
